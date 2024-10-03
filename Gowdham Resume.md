@@ -1,6 +1,6 @@
-﻿**M.GOWDHAM RAMAN 
-EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)
-PH: 8012896060![]**
+﻿**M.GOWDHAM RAMAN **
+**EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)**
+**PH: 8012896060**
 
 **SUMMARY OF QUALIFICATIONS:**
 
@@ -111,10 +111,10 @@ Mini Project Title : Stock Management System in Vb.net with MS access
 
 **PERSONAL PROFILE:**
 
-Date of Birth - 01-02-1993
-Father’s name - R.Madhanagopal
-Languages - English, Tamil, and Hindi (To write, read and speak)
-Known Hobbies - working with multimedia software’s, Reading about the new technologies.
+- Date of Birth - 01-02-1993
+- Father’s name - R.Madhanagopal
+- Languages - English, Tamil, and Hindi (To write, read and speak)
+- Known Hobbies - working with multimedia software’s, Reading about the new technologies.
 
 
 **DECLARATION:**
