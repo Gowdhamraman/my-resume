@@ -1,4 +1,6 @@
-﻿**M.GOWDHAM RAMAN EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)PH: 8012896060![](Aspose.Words.6ef6ec5b-bf0a-472d-8df7-5be8e5e3e9cd.001.png)**
+﻿**M.GOWDHAM RAMAN 
+EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)
+PH: 8012896060![]**
 
 **SUMMARY OF QUALIFICATIONS:**
 
@@ -17,7 +19,7 @@ Key Qualifications & Responsibilities :
 - Provide support to other team members when required.
 - Manage other personal administration like KPI & PLI analysis of techs on the team and assist Managers with the Management activities.
 
-Key Achievements :
+### Key Achievements :
 
 - Got appreciation from Client for managing the team efficiently and received a Client gift in December 2022.
 
@@ -37,7 +39,7 @@ side errors with Apache, MySQL, SSH, Exim, DNS etc.
 - Handling Server/Website migrations (cPanel-cPanel, custom panel - cPanel)
 - On-boarded and trained all incoming junior tech support specialists.
 
-Key Achievements :![](Aspose.Words.6ef6ec5b-bf0a-472d-8df7-5be8e5e3e9cd.002.png)
+Key Achievements :
 
 - Solved 99% issues on the ticketing system and got the performance incentive from the client
 
@@ -109,12 +111,11 @@ Mini Project Title : Stock Management System in Vb.net with MS access
 
 **PERSONAL PROFILE:**
 
-Date of Birth Father’s name Languages Known Hobbies
+Date of Birth - 01-02-1993
+Father’s name - R.Madhanagopal
+Languages - English, Tamil, and Hindi (To write, read and speak)
+Known Hobbies - working with multimedia software’s, Reading about the new technologies.
 
-- 01-02-1993
-- R.Madhanagopal
-- English, Tamil, and Hindi (To write, read and speak)
-- working with multimedia software’s, Reading about the new technologies.
 
 **DECLARATION:**
 
