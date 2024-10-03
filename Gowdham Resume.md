@@ -59,8 +59,8 @@ Key Achievements :
 |**Course**|**Institution**|**Board / University**|**Year of Completion**|**Percenta ge (%)**|
 | - | - | :- | :- | :-: |
 |B.Tech.IT|Bharathiyar College of Engineering and Technology|Pondicherry University|2014|78\.6%|
-|HSC|Thantai Periyar Govt.Hr.Sec.School|State board|2010|65**%**|
-|SSLC|Thantai Periyar Govt.Hr.Sec.School|State Board|2008|79**%**|
+|HSC|Thantai Periyar Govt.Hr.Sec.School|State board|2010|65%|
+|SSLC|Thantai Periyar Govt.Hr.Sec.School|State Board|2008|79%|
 
 **TECHNICAL SKILLS:**
 
