@@ -1,7 +1,5 @@
 ﻿**M.GOWDHAM RAMAN**
- 
 **EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)**
-
 **PH: 8012896060**
 
 **SUMMARY OF QUALIFICATIONS:**
