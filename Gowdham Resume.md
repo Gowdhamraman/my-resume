@@ -1,6 +1,6 @@
 ﻿**M.GOWDHAM RAMAN**
-**EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)**
-**PH: 8012896060**
+ - **EMAIL: [gowdham93@gmail.com ](mailto:gowdham93@gmail.com)**
+- **PH: 8012896060**
 
 **SUMMARY OF QUALIFICATIONS:**
 
@@ -19,7 +19,7 @@ Key Qualifications & Responsibilities :
 - Provide support to other team members when required.
 - Manage other personal administration like KPI & PLI analysis of techs on the team and assist Managers with the Management activities.
 
-### Key Achievements :
+ Key Achievements :
 
 - Got appreciation from Client for managing the team efficiently and received a Client gift in December 2022.
 
@@ -31,11 +31,7 @@ Key Qualifications & Responsibilities :
 - Creating and Managing the File Systems.
 - Audit the servers for the clients.
 - Monitoring incoming and outgoing traffic of the server using network monitoring tools.
-
-Troubleshoot complex website issues , account load issues, Email problems and other Server
-
-side errors with Apache, MySQL, SSH, Exim, DNS etc.
-
+- Troubleshoot complex website issues , account load issues, Email problems and other Serverside errors with Apache, MySQL, SSH, Exim, DNS etc.
 - Handling Server/Website migrations (cPanel-cPanel, custom panel - cPanel)
 - On-boarded and trained all incoming junior tech support specialists.
 
