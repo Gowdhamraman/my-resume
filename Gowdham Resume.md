@@ -21,7 +21,7 @@ Key Qualifications & Responsibilities :
 
  Key Achievements :
 
-- Got appreciation from Client for managing the team efficiently and received a Client gift in December 2022.
+- Got appreciation from Client for managing the team efficiently and received a Client gift in December 2023.
 
   **Senior Software Engineer at Poornam Info Vision, Cochin. (April 2020- May 31st, 2022)**
 
@@ -37,35 +37,23 @@ Key Qualifications & Responsibilities :
 
 Key Achievements :
 
-- Solved 99% issues on the ticketing system and got the performance incentive from the client
-
-in December 2020.
+- Solved 99% issues on the ticketing system and got the performance incentive from the client in December 2020.
 
 **Junior Administrator ( Level 2) at Diya Systems, Mangalore. (Dec 2017 - Apr 2020)**
 
 Key Qualifications & Responsibilities :
 
 - Providing 24/7 support.
-- Coordinated with Level 1 technical support specialists and assisted with troubleshooting the
-
-issues on the website and emails.
-
-- Assisted customers with more difficult technical issues requiring a greater level of
-
-personalized care and in greater length through email.
-
-- Escalated support desk tickets to Level 3 in the most crucial circumstances and after
-
-considerable time had been spent on a single ticket.
-
+- Coordinated with Level 1 technical support specialists and assisted with troubleshooting the issues on the website and emails.
+- Assisted customers with more difficult technical issues requiring a greater level of personalized care and in greater length through email.
+- Escalated support desk tickets to Level 3 in the most crucial circumstances and after considerable time had been spent on a single ticket.
 - Setup Quotas for the user accounts & limiting the disk space usage
 
-Key Achievements :![](Aspose.Words.6ef6ec5b-bf0a-472d-8df7-5be8e5e3e9cd.003.png)
+Key Achievements :
 
 - Got appreciation from US Management for resolving more issues in a timely manner with good resolution.
 
 **EDUCATIONAL PROFILE:**
-
 
 
 |**Course**|**Institution**|**Board / University**|**Year of Completion**|**Percenta ge (%)**|
@@ -76,13 +64,13 @@ Key Achievements :![](Aspose.Words.6ef6ec5b-bf0a-472d-8df7-5be8e5e3e9cd.003.png)
 
 **TECHNICAL SKILLS:**
 
-OS Known : Windows, Linux(Cent OS , Cloudlinux), (Ubuntu)
+- OS Known : Windows, Linux(Cent OS , Cloudlinux), (Ubuntu)
 
-Web Servers : Apache, IIS and Litespeed
+- Web Servers : Apache, IIS and Litespeed
 
-Languages : C, C++, PHP and JAVA
+- Languages : C, C++, PHP and JAVA
 
-Protocols : TCP/IP, HTTP, HTTPS, SMTP, IMAP, POP, FTP, SSH, DNS Database : MySQL , MariaDB
+- Protocols : TCP/IP, HTTP, HTTPS, SMTP, IMAP, POP, FTP, SSH, DNS Database : MySQL , MariaDB
 
 **EXTRA CURRICULAR ACTIVITIES:**
 
@@ -115,6 +103,6 @@ Mini Project Title : Stock Management System in Vb.net with MS access
 
 **DECLARATION:**
 
-I hereby declare that the information furnished above is true to the best of my knowledge. Place: Kochi Yours Truly,
+I hereby declare that the information I have provided above is true to the best of my knowledge. 
 
-M.Gowdham Raman
+
